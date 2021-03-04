@@ -1,1 +1,3 @@
-# golang-graphql-locationservice-tile38
+# geofence
+
+Location service using tile38

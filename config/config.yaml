@@ -1,0 +1,5 @@
+server:
+  port: "8080"
+
+redis:
+  addr: "tile38:9851"
